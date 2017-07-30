@@ -1,6 +1,6 @@
 {
 	"name": "@scriptabuild/awaitable",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Utility to turn a nodejs style asyncronous function (ie. one that takes a function(err, result) callback parameter) into a function that returns a promise instead. (Since such functions can be await'ed.)",
 	"main": "index.js",
 	"scripts": {
@@ -11,9 +11,9 @@
 		"url": "git+https://github.com/scriptabuild/awaitable.git"
 	},
 	"keywords": [
-    "callback",
-    "promise",
-    "async",
+		"callback",
+		"promise",
+		"async",
 		"await"
 	],
 	"author": "Arjan Einbu <arjan@einbu.no>",
