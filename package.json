@@ -17,7 +17,7 @@
 		"await"
 	],
 	"author": "Arjan Einbu <arjan@einbu.no>",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/scriptabuild/awaitable/issues"
 	},
